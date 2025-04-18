@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Selenium WebDriver binaries
+chromedriver.log
+geckodriver.log
+selenium-debug.log
+
+# Test reports
+reports/
+*.xml
+*.json
+*.html
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
